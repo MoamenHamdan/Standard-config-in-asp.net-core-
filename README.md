@@ -1,0 +1,1 @@
+# Standard-config-in-asp.net-core-
